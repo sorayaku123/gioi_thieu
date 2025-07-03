@@ -30,6 +30,7 @@ header img{
     flex-direction: column;
     align-items: center;
     transition: 0.5s ease;
+    min-height: 700px;
 }
 .logos p{
     margin-block-start: 0px;
