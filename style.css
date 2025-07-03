@@ -32,9 +32,6 @@ header img{
     transition: 0.5s ease;
     min-height: 700px;
 }
-.logos p{
-    margin-block-start: 0px;
-}
 
 
 .giới_thiệu{
@@ -58,6 +55,18 @@ p{
 
 .logos{
     margin-top: 20px;
+}
+
+.phone{
+    color: white;
+}
+.logos span{
+    font-size: 14px;
+}
+.logos p{
+        padding-left: 0px;
+    margin-left: 0px;
+    text-align: left;
 }
 
 .logos a img{
