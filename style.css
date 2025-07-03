@@ -31,6 +31,9 @@ header img{
     align-items: center;
     transition: 0.5s ease;
 }
+.logos p{
+    margin-block-start: 0px;
+}
 
 
 .giới_thiệu{
@@ -41,7 +44,7 @@ header img{
 .giới_thiệu h1{
     color: white;
     padding-top: 4rem;
-    font-size: 1.2rem;
+    font-size: 0.9rem;
 }
 
 p{
@@ -52,15 +55,20 @@ p{
 
 .logos{
     margin-top: 20px;
-    display: flex;
 }
 
 .logos a img{
-    width: 35px;
-    height: 35px;
-    display: block;
+    width: 25px;
     margin-right: 7px;
-    margin-bottom: 15px;
+
+}
+
+.fb{
+    margin-top: 9px;
+}
+
+.logos a{
+    display: block;
 }
 
 
