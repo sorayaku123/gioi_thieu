@@ -54,15 +54,7 @@ p{
     margin-top: 8px;
 }
 
-.page{
-        color: rgb(182, 208, 250);
-        font-weight: bold;
-        text-decoration: underline;
-        text-decoration-color: #3592fb;
-        text-decoration-thickness: 1px;
-        text-underline-offset: 4px;
-        font-weight: 600;
-}
+
 
 .logos{
     margin-top: 20px;
@@ -170,8 +162,14 @@ a{
 }
 .work{
     margin-top: 25px;
+    color: rgb(204, 191, 191);
 }
 .page{
-    font-weight: bold;
-    color: pink;
+        color: rgb(182, 208, 250);
+        font-weight: bold;
+        text-decoration: underline;
+        text-decoration-color: #3592fb;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 4px;
+        font-weight: 600;
 }
